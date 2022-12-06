@@ -3,8 +3,8 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1|    |            |           |      12.35        |      |         |
-|          |    |            |           |              |      |         |
+|         1|  batterijen  |  Batterij          |  nieuw         |              |  2    |         |
+|         2|    |            |           |              |      |         |
 |          |    |            |           |              |      |         |
 |          |    |            |           |              |      |         |
 |          |    |            |           |              |      |         |
