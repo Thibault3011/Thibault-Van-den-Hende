@@ -10,7 +10,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 ## specifications
 <br />
 microcontroller:
-<br />
+<br arduino leonardo />
 motors: 
 <br />
 h-bridge:
