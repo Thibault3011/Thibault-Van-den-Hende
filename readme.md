@@ -9,8 +9,8 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
-<br arduino leonardo />
+microcontroller: Arduino leonardo
+<br />
 motors: 
 <br />
 h-bridge:
